@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+.box1 {
+  width: 50%;
+  margin-top: 50%;
+  margin-left: 25%;
+
+  text-align: center;
+  color: aliceblue;
+}
+.box2 {
+  border: 5px solid white;
+  width: 50%;
+}
